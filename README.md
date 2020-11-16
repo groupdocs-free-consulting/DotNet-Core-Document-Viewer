@@ -11,7 +11,7 @@ If you don't have a license. You can request a [temporary license](https://purch
 ## Screenshots
 * Sample Word document in MS Word
 ![](Screenshots/word.PNG)
-* Sample PDF displayed using ASP.NET Core API application
+* Displayed using ASP.NET Core application
 ![](Screenshots/output.PNG)
 
 # Interested in GroupDocs free consulting project?
