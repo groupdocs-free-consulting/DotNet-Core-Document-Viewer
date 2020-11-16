@@ -6,7 +6,7 @@ This .NET Core web application will elaborate how GroupDocs.Viewer for .NET [API
 * Add GroupDocs.Viewer for .NET DLL/Install NuGet
 * Build and run solution
 
-## Loading Document From Azure
+### Loading Document From Azure
 If you want to pull the source file from Azure Blog Storage, you have to provide container name, endpoint, account key and name.  
 
 If you don't have a license. You can request a [temporary license](https://purchase.groupdocs.com/buy) in order to evaluate these proejcts without any API limitation. 
