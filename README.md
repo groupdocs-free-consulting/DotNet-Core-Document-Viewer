@@ -10,7 +10,7 @@ If you don't have a license. You can request a [temporary license](https://purch
 
 ## Screenshots
 * Sample Word document in MS Word
-![](Screenshots/word.PNG)
+![](Screenshots/word.PNG) 
 * Displayed using ASP.NET Core application
 ![](Screenshots/output.PNG)
 
